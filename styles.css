@@ -28,6 +28,10 @@ body{
       box-shadow:  3px 3px 15px rgb(26, 25, 25) ,-3px -3px 15px rgb(26, 25, 25);
      
     }
+
+    .greetins{
+      text-align: center;
+    }
     @media (max-width: 600px) {
       .column {
         flex: 100%;
